@@ -7,7 +7,7 @@
 
       <div class="obituary">
         <div class="image">
-          <img height="292" src="~/assets/frontimage.jpg" alt="In loving memory" />
+          <img height="292" src="~/assets/Janet Davidson - mortuary memorial service.jpg" alt="Janet Davidson" />
         </div>
         <div class="text">
           Janet (Anderson) Davidson, age 72, passed away after struggling with colon cancer on June 9, 2021, in Cedar City, Utah. Jan was born on July 1, 1948 in Pocatello, Idaho to Alice (McCormick) and LeRay Anderson.
@@ -23,6 +23,9 @@
         </div>
         <div class="text">
           The family would like to express their deepest gratitude to the doctors and nurses, the hospice workers, and the wonderful members of the East Bench Ward for their tender loving care of Jan while she went through three rounds of intense cancer treatments over the last two years.
+        </div>
+        <div class="image">
+          <img height="292" src="~/assets/Jack and Janet - mortuary memorial service.jpg" alt="In loving memory" />
         </div>
       </div>
     </div>
