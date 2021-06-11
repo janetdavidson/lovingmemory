@@ -5,8 +5,8 @@
     </div>
     <div class="section details">
       <h1 class="title">Gallery</h1>
-      <CoolLightBox 
-        :items="images" 
+      <CoolLightBox
+        :items="images"
         :index="index"
         @close="index = null">
       </CoolLightBox>
@@ -64,6 +64,7 @@ import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+
     @media screen and (max-width: 800px) {
       justify-content: center;
       width: calc(100% + 60px);
@@ -78,6 +79,7 @@ import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
     background-size: cover;
     margin: 3px;
     width: 120px;
+  image-orientation: from-image;
     height: 120px;
     @media screen and (max-width: 800px) {
       width: 105px;

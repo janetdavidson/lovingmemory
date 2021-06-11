@@ -309,4 +309,7 @@ ul {
 .svg-inline--fa.fa-fw {
     width: 1.25em;
 }
+img{
+  image-orientation: from-image;
+}
 </style>
