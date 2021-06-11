@@ -6,8 +6,9 @@
     <div class="section details">
       <h1 class="title">Service Livestream</h1>
       <p>As attendance is restricted due to COVID-19 we hope that you will join us virtually. The services will be held on <em>Thursday January 28th 2021</em>, first at Church address then at Crematorium address.</p>
-      <h2>Church Service</h2>
-      <p>The church service is being performed at Cedar City Stake Center
+      <h2>Memorial Service</h2>
+      <p>The memorial service will be livestreamed at Cedar City Stake Center.
+      <p>There will be no live stream at the Cemetery.
       </p>
       <a class="button" target="_blank" rel=”noopener” href="">Livestream - 11:00am</a>
       <ul class="fa-ul">
