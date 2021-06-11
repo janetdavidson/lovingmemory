@@ -21,16 +21,9 @@
         <ListItem>Dedicatory Prayer</ListItem>
       </ul>
     </div>
-    <Cemetery/>
   </div>
 </template>
 
-<script>
-import Cemetery from "~/components/Cemetery";
-export default {
-  components: {Cemetery}
-}
-</script>
 
 <style lang="scss">
 </style>

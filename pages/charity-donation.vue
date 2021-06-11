@@ -8,7 +8,7 @@
       <h2>InterMountain Cancer Center</h2>
       <p>We are so grateful to <em>Intermountain Cancer Center</em> for their care and treatment of Jan.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://intermountainhealthcare.org/giving-volunteering/intermountain-foundation/ways-to-give/">Donate to Intermountain Cancer Center</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://intermountainhealthcare.org/giving-volunteering/intermountain-foundation/ways-to-give/">Donate to InterMountain Cancer Center</a>
     </div>
   </div>
 </template>
