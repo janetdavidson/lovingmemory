@@ -1,5 +1,5 @@
-const name = 'Janet Doe'
-const dates = 'July 29th 1958 - Jan 4th 2021'
+const name = 'Janet (Anderson) Davidson'
+const dates = 'July 1st 1948 - June 9th 2021'
 
 export default {
   publicRuntimeConfig: {
@@ -8,7 +8,9 @@ export default {
   },
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
-
+  server: {
+    host: '0.0.0.0' // default: localhost
+  },
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     htmlAttrs: {

@@ -5,9 +5,12 @@ const dir = './assets/gallery'
 const thumbdir = './assets/thumbs'
 const imagewidth = 1800
 
-fs.rmdirSync(dir, { recursive: true });
-fs.rmdirSync(thumbdir, { recursive: true });
-
+if (fs.existsSync(dir)) {
+  fs.rmdirSync(dir, {recursive: true});
+}
+if (fs.existsSync(thumbdir)){
+  fs.rmdirSync(thumbdir, {recursive: true});
+}
 if (!fs.existsSync(dir)){
     fs.mkdirSync(dir);
 }
@@ -25,7 +28,7 @@ glob("assets/images/*.+(png|jpg|jpeg|svg)", opt, async function (err, images) {
 
     for (const file of images) {
         //files.forEach(async function(file) {
-      
+
         let filenameold = file.replace('assets/images/', '')
         let filename = filenameold.toLowerCase().replace(/[^\w.]+/g, "_")
 
@@ -67,7 +70,7 @@ glob("assets/images/*.+(png|jpg|jpeg|svg)", opt, async function (err, images) {
         .catch(err => {
             console.error(err);
         });
-       
+
     }
 
 })

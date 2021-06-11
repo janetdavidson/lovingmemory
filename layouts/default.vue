@@ -122,7 +122,6 @@ html {
     background: $background;
     justify-content: space-evenly;
     overflow: auto;
-    height: 100vh;
     @media (max-height: 600px) {
       justify-content: normal;
     }
@@ -253,6 +252,32 @@ ul {
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
+  }
+}
+
+.obituary {
+  font-weight: 300;
+  text-align:left;
+  text-indent: 5vh;
+  font-size: 20px;
+  color: #adb4c7;
+  margin: 20px;
+  @media screen and (max-width: 800px) {
+    margin: 15px;
+  }
+  .image {
+    text-align: center;
+    img {
+      //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      //filter: grayscale(100%);
+      box-sizing: content-box;
+
+      border: 8px solid #fff;
+      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
+    }
+  }
+  .text{
+    padding:10px;
   }
 }
 
