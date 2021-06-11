@@ -6,7 +6,7 @@ on:
 
 jobs:
   cd:
-    runs-on: self-hosted
+    runs-on: ${{ matrix.os }}
 
     strategy:
       matrix:
