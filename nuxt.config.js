@@ -48,8 +48,13 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    // Simple usage
+    'vuejs-google-maps/nuxt',
+    // Passing options in module configuration
+    ['vuejs-google-maps/nuxt', {apiKey: 'AIzaSyC48BuJTDY7vo7n3rP-sc50tCSQEJgO1KE', libraries: [/* rest of libraries */]}]
   ],
-
+  // Passing options in module top level configuration
+  googleMaps: {apiKey: 'AIzaSyC48BuJTDY7vo7n3rP-sc50tCSQEJgO1KE', libraries: [/* rest of libraries */]},
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
   }

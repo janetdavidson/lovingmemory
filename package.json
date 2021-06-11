@@ -11,7 +11,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "nuxt": "^2.14.12",
-    "vue-cool-lightbox": "^2.7.0"
+    "vue-cool-lightbox": "^2.7.0",
+    "vuejs-google-maps": "^0.1.0"
   },
   "devDependencies": {
     "jimp": "^0.16.1",
