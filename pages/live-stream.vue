@@ -11,10 +11,6 @@
       <p>There will be no livestream at the Cemetery.
       </p>
       <a class="button" target="_blank" rel=”noopener” href="">Livestream ~ 10:45 a.m.</a>
-      <ul class="fa-ul">
-
-      </ul>
-
     </div>
   </div>
 </template>

@@ -8,29 +8,19 @@
       <p><em>Wednesday, June 16, 2021</em></p>
       <h2>Memorial Service <span>11:00 a.m.</span></h2>
       <ul class="fa-ul">
-<<<<<<< HEAD
-        <ListItem>Service starts at 11:00 a.m. at <a target="_blank" href="https://www.google.com/maps/dir//The+Church+of+Jesus+Christ+of+Latter-day+Saints,+Cedar+City,+UT+84720/@37.6703501,-113.0580423,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x80b561c841662623:0x32f3b3ea890b9472!2m2!1d-113.0588095!2d37.6705763!3e0">Cedar City Stake Center</a></ListItem>
-=======
-        <ListItem>Service starts at 11:00 am at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//Cedar+Stake+Center,+155+E+400+S,+Cedar+City,+UT+84720/@37.6733592,-113.0790912,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80b561c846b42805:0x7f299b75c56ace35!2m2!1d-113.0588829!2d37.6704444"><i class="fas fa-map-marker-alt"></i> Cedar City Stake Center</a></ListItem>
->>>>>>> eb58233e4b9886cc16017855fa3c5532a1dfb81a
+        <ListItem>Service starts at 11:00 a.m. at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//Cedar+Stake+Center,+155+E+400+S,+Cedar+City,+UT+84720/@37.6733592,-113.0790912,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80b561c846b42805:0x7f299b75c56ace35!2m2!1d-113.0588829!2d37.6704444"><i class="fas fa-map-marker-alt"></i> Cedar City Stake Center</a></ListItem>
         <ListItem>Welcome &amp; Conducting (Bishop Brady Smith)</ListItem>
         <ListItem>Opening Prayer (Lorraine Davidson)</ListItem>
         <ListItem>Remembrances - Family &amp; Friends</ListItem>
         <ListItem>Remarks (Bishop Brady Smith)</ListItem>
         <ListItem>Closing prayer (Kristen Davidson)</ListItem>
       </ul>
-<<<<<<< HEAD
-      <h2>Cedar City Cemetery <span>1:00 p.m.</span></h2>
-      <ul class="fa-ul">
-        <ListItem>Service starts at 1:00 p.m. at Cedar City Cemetery Columbarium</ListItem>
-=======
       <div class="map">
         <iframe src="https://maps.google.com/maps?q=155 E 400 S Cedar City, Utah&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"/>
       </div>
-      <h2>Cedar City Cemetery <span>1:00 pm</span></h2>
+      <h2>Cedar City Cemetery <span>1:00 p.m.</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 1:00 pm at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//37.6895447,-113.0644744/@37.6897781,-113.0647963,19z"><i class="fas fa-map-marker-alt"></i> Cedar City Cemetery Columbarium</a></ListItem>
->>>>>>> eb58233e4b9886cc16017855fa3c5532a1dfb81a
+        <ListItem>Service starts at 1:00 p.m. at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//37.6895447,-113.0644744/@37.6897781,-113.0647963,19z"><i class="fas fa-map-marker-alt"></i> Cedar City Cemetery Columbarium</a></ListItem>
         <ListItem>Dedicatory Prayer (Jack L Davidson)</ListItem>
       </ul>
       <div class="map">
