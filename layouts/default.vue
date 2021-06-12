@@ -262,6 +262,10 @@ ul {
   font-size: 20px;
   color: #adb4c7;
   margin: 20px;
+  a{
+    color:white;
+    text-decoration: none;
+  }
   @media screen and (max-width: 800px) {
     margin: 15px;
   }

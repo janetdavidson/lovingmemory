@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Gallery</h1>
+      <h1 class="title">Photo Gallery</h1>
       <CoolLightBox
         :items="images"
         :index="index"
