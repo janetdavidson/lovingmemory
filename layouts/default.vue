@@ -26,6 +26,30 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
+.title {
+  font-family: 'Pinyon Script', cursive;
+  display: block;
+  font-weight: 300;
+  font-size: 50px;
+  color: #35495e;
+  letter-spacing: 1px;
+  margin: 40px 0;
+  color: #fff;
+  @media screen and (max-width: 800px) {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 14px;
+  color: #adb4c7;
+  margin: 40px 0;
+  @media screen and (max-width: 800px) {
+    margin: 25px 0;
+  }
+}
 
 .container {
   margin: 0 auto;
@@ -125,6 +149,23 @@ html {
     @media (max-height: 600px) {
       justify-content: normal;
     }
+    .title{
+      padding-top:30px;
+    }
+    .name{
+      font-size:40px;
+    }
+    .subtitle{
+      font-size: 20px;
+    }
+    @media screen and (max-width: 800px) {
+      .name{
+        font-size:26px;
+      }
+      .subtitle{
+        font-size: 17px;
+      }
+    }
     img {
       //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
       //filter: grayscale(100%);
@@ -142,7 +183,21 @@ html {
     justify-content: normal;
     overflow: auto;
     height: 100vh;
-
+    div.map{
+      position:relative;
+      text-align:right;
+      height:22vh;
+      margin-top:10px;
+      width:100%;
+      iframe{
+        height:20vh;
+        width:100%;
+      }
+    }
+    a.same-line{
+      display:inline-block;
+      padding:0px;
+    }
     p {
       margin: 10px 0;
       font-weight: 300;
@@ -161,6 +216,7 @@ html {
       padding: 0;
       li {
         margin: 10px 0;
+        font-size:17px;
       }
     }
     .title {
@@ -177,6 +233,60 @@ html {
         margin-left: 15px;
         border-radius: 4px;
       }
+    }
+  }
+  &.obituary {
+    font-weight: 300;
+    text-align:left;
+    justify-content: normal;
+    overflow: auto;
+    align-items: flex-start;
+    background: $background;
+    padding:0px;
+    margin:0px;
+    color: #adb4c7;
+    text-indent: 20px;
+    height: 100vh;
+    a{
+      color:#f41b8e;
+      padding:0px;
+      text-decoration: none;
+    }
+    @media screen and (max-width: 800px) {
+      padding: 5px;
+    }
+    div.image {
+      text-align: center;
+      width:100%;
+      margin:10px;
+      img {
+        //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        //filter: grayscale(100%);
+        box-sizing: content-box;
+        max-height: 400px;
+        max-width: 60%;
+        border: 8px solid #fff;
+        box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
+      }
+    }
+    .title {
+      margin: 25px 0 25px;
+    }
+    h2 {
+      margin: 40px 0 5px;
+      align-items: center;
+      display: flex;
+      span {
+        background: $highlightmuted;
+        padding: 3px 7px;
+        font-size: 16px;
+        margin-left: 15px;
+        border-radius: 4px;
+      }
+    }
+    .text{
+      padding:15px;
+      font-size:18px;
     }
   }
   .button {
@@ -229,60 +339,6 @@ ul {
   font-size: 40px;
   color: #fff;
   font-weight: 300;
-}
-.title {
-  font-family: 'Pinyon Script', cursive;
-  display: block;
-  font-weight: 300;
-  font-size: 50px;
-  color: #35495e;
-  letter-spacing: 1px;
-  margin: 40px 0;
-  color: #fff;
-  @media screen and (max-width: 800px) {
-    font-size: 40px;
-    margin: 30px 0;
-  }
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 14px;
-  color: #adb4c7;
-  margin: 40px 0;
-  @media screen and (max-width: 800px) {
-    margin: 25px 0;
-  }
-}
-
-.obituary {
-  font-weight: 300;
-  text-align:left;
-  text-indent: 5vh;
-  font-size: 20px;
-  color: #adb4c7;
-  margin: 20px;
-  a{
-    color:white;
-    text-decoration: none;
-  }
-  @media screen and (max-width: 800px) {
-    margin: 15px;
-  }
-  .image {
-    text-align: center;
-    img {
-      //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-      //filter: grayscale(100%);
-      box-sizing: content-box;
-
-      border: 8px solid #fff;
-      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
-    }
-  }
-  .text{
-    padding:10px;
-  }
 }
 
 .svg-inline--fa {
