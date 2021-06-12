@@ -25,7 +25,7 @@
           The family would like to express their deepest gratitude to the doctors and nurses, the hospice workers, and the wonderful members of the East Bench Ward for their tender loving care of Jan while she went through three rounds of intense cancer treatments over the last two years.
         </div>
         <div class="text">
-          Online condolences can be added to <a href="https://memorials.affordablefuneralservices.com/janet-davidson/4642107/obituary.php">Affordable Funeral Services'webpage for Janet Davidson</a> by clicking the Memory Wall tab, located underneath Jan's photo.
+          Online condolences can be added to <a target="_blank" href="https://memorials.affordablefuneralservices.com/janet-davidson/4642107/obituary.php">Affordable Funeral Services' webpage for Janet Davidson</a> by clicking the Memory Wall tab, located underneath Jan's photo.
         </div>
         <div class="image">
           <img height="292" src="~/assets/Jack and Janet - mortuary memorial service.jpg" alt="In loving memory" />

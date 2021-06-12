@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Order of service</h1>
-      <p><em>Wednesday 16th June 2021</em></p>
+      <p><em>Wednesday, June 16, 2021</em></p>
       <h2>Memorial Service <span>11:00 am</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 11:00 am at Cedar City Stake Center</ListItem>
