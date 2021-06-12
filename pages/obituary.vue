@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-
+      <h1 class="title">Obituary</h1>
       <div class="obituary">
         <div class="image">
           <img height="292" src="~/assets/Janet Davidson - mortuary memorial service.jpg" alt="Janet Davidson" />
