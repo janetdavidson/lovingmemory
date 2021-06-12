@@ -142,7 +142,21 @@ html {
     justify-content: normal;
     overflow: auto;
     height: 100vh;
-
+    div.map{
+      position:relative;
+      text-align:right;
+      height:22vh;
+      margin-top:10px;
+      width:100%;
+      iframe{
+        height:20vh;
+        width:100%;
+      }
+    }
+    a.same-line{
+      display:inline-block;
+      padding:0px;
+    }
     p {
       margin: 10px 0;
       font-weight: 300;
@@ -161,6 +175,7 @@ html {
       padding: 0;
       li {
         margin: 10px 0;
+        font-size:17px;
       }
     }
     .title {
