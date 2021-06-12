@@ -10,10 +10,9 @@
       <p>The memorial service will be livestreamed at Cedar City Stake Center.
       <p>There will be no livestream at the Cemetery.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 11:00am</a>
+      <a class="button" target="_blank" rel=”noopener” href="">Livestream ~ 10:45 a.m.</a>
       <ul class="fa-ul">
-        <ListItem>Username: <span class="highlight">test</span> <CopyButton text="test123"></CopyButton></ListItem>
-        <ListItem>Password: <span class="highlight">davidson</span> <CopyButton text="password123"></CopyButton></ListItem>
+
       </ul>
 
     </div>
