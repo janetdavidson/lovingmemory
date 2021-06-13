@@ -10,7 +10,7 @@ $highlightmuted: #f41b8ed9;
 $background: #2b3143;
 
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: "Trebuchet MS", sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -195,6 +195,7 @@ html {
       img{
         margin:15px;
         border:3px solid $highlight;
+        border-radius:5px;
       }
     }
     .memorial{
@@ -217,20 +218,17 @@ html {
         width:100%;
       }
     }
-    div.map{
-      position:relative;
-      text-align:right;
-      height:22vh;
-      margin-top:10px;
-      width:100%;
-      iframe{
-        height:20vh;
-        width:100%;
+    div.map {
+      position: relative;
+      text-align: right;
+      height: 22vh;
+      margin-top: 10px;
+      width: 100%;
+
+      iframe {
+        height: 20vh;
+        width: 100%;
       }
-    }
-    a.same-line{
-      display:inline-block;
-      padding:0px;
     }
     p {
       margin: 10px 0;
@@ -283,7 +281,7 @@ html {
     height: 100vh;
     a{
       color: $highlight;
-      font-weight: bold;
+      font-weight: 500;
       padding:0px;
       text-decoration: none;
     }
@@ -406,5 +404,14 @@ ul {
 }
 img{
   image-orientation: from-image;
+}
+a.same-line{
+  display:inline-block;
+  text-indent:0px;
+  font-weight: 700;
+  padding:0px;
+}
+.bold{
+  font-weight: bold;
 }
 </style>
