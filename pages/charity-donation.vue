@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details section-70">
       <h1 class="title">Charitable Donations</h1>
       <h2>Intermountain Cancer Center</h2>
       <p>We are so grateful to <em>Intermountain Cancer Center</em> for their care and treatment of Jan. In remembrance of Janet Davidson's life, the family asks that any charitable donations friends or family feel like making, be made to the Intermountain Cancer Center.

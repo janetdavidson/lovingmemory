@@ -1,21 +1,16 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details section-70">
       <h1 class="title">Memorial Service Livestream</h1>
       <p>We hope those that can't make it in person will join us virtually. The services will be held on <em>Wednesday, June, 16, 2021</em>.</p>
       <h2>Memorial Service</h2>
       <p>The memorial service will be livestreamed at Cedar City Stake Center.
       <p>There will be no livestream at the Cemetery.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 11:00am</a>
-      <ul class="fa-ul">
-        <ListItem>Username: <span class="highlight">test</span> <CopyButton text="test123"></CopyButton></ListItem>
-        <ListItem>Password: <span class="highlight">davidson</span> <CopyButton text="password123"></CopyButton></ListItem>
-      </ul>
-
+      <a class="button" target="_blank" rel=”noopener” href="">Livestream ~ 10:45 a.m.</a>
     </div>
   </div>
 </template>

@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details section-70">
       <h1 class="title">Photo Gallery</h1>
       <CoolLightBox
         :items="images"
