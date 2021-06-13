@@ -191,8 +191,10 @@ html {
     .program{
       width:50%;
       display:inline-block;
+      padding-top:20px;
       img{
         padding:15px;
+        border:3px solid $highlight;
       }
     }
     .memorial{
