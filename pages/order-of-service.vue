@@ -11,7 +11,7 @@
 
       <div style="width:100%;display:flex;">
         <div class="memorial">
-          <h2>Memorial Service <span>11:00 a.m.</span></h2>
+          <h2>Memorial Service <span>11:00am</span></h2>
           <div class="program-small">
             <a href="/layout/images/memorial service program.jpg" target="_blank">
               <img height="250" src="/layout/images/memorial service program.jpg" alt="Click to view larger"/>
@@ -37,7 +37,7 @@
       <div class="map">
         <iframe src="https://maps.google.com/maps?q=155 E 400 S Cedar City, Utah&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"/>
       </div>
-      <h2>Cedar City Cemetery <span>1:00 p.m.</span></h2>
+      <h2>Cedar City Cemetery <span>1:00pm</span></h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 1:00 p.m. at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//37.6895447,-113.0644744/@37.6897781,-113.0647963,19z"><i class="fas fa-map-marker-alt"></i> Cedar City Cemetery Columbarium</a></ListItem>
         <ListItem>Dedicatory Prayer (Jack L Davidson)</ListItem>

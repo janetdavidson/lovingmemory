@@ -1,5 +1,5 @@
 const name = 'Janet (Anderson) Davidson'
-const dates = 'July 1st 1948 - June 9th 2021'
+const dates = 'Thursday, July 1st 1948 - Wednesday, June 9th 2021'
 
 export default {
   publicRuntimeConfig: {

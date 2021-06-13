@@ -9,10 +9,25 @@
       </div></h1>
       <p>We hope those that can't make it in person will join us virtually. The services will be held on <span class="bold">Wednesday, June, 16, 2021</span>.</p>
       <h2>Memorial Service</h2>
-      <p>The memorial service will be livestreamed at Cedar City Stake Center.
-      <p>There will be no livestream at the Cemetery.
+      <p>The memorial service will be livestreamed at Cedar City Stake Center.</p>
+      <p>There will be no livestream at the Cemetery.</p>
+      <a class="button" target="_blank" href="https://zoom.us/j/93937023718?pwd=TTU2WEs4VjMxbkdRcGQwbVRicXMxZz09">Livestream ~ 10:45am</a>
+      <p>
+        Meeting ID: 939 3702 3718<br/>
+        Passcode: -released closer to service-<br/>
+        <br/>
+        One tap mobile:<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;+16699006833,,93937023718#,,,,*557058# US (San Jose)<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;+12532158782,,93937023718#,,,,*557058# US (Tacoma)<br/>
+        <br/>
+        Dial by your location:<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(669)-900-6833 US (San Jose)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(253)-215-8782 US (Tacoma)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(346)-248-7799 US (Houston)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(929)-205-6099 US (New York)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1 301 715 8592 US (Washington DC)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(312)-626-6799 US (Chicago)<br/>
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream ~ 10:45 a.m.</a>
     </div>
   </div>
 </template>
