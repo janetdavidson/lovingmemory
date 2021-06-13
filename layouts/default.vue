@@ -248,7 +248,8 @@ html {
     text-indent: 20px;
     height: 100vh;
     a{
-      color:#f41b8e;
+      color: #fa41a1;
+      font-weight: bold;
       padding:0px;
       text-decoration: none;
     }
