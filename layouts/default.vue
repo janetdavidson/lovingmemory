@@ -282,7 +282,7 @@ html {
     text-indent: 20px;
     height: 100vh;
     a{
-      color: #fa41a1;
+      color: $highlight;
       font-weight: bold;
       padding:0px;
       text-decoration: none;
