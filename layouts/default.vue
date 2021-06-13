@@ -10,7 +10,7 @@ $highlightmuted: #f41b8ed9;
 $background: #2b3143;
 
 html {
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
