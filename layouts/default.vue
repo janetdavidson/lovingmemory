@@ -193,7 +193,7 @@ html {
       display:inline-block;
       padding-top:20px;
       img{
-        padding:15px;
+        margin:15px;
         border:3px solid $highlight;
       }
     }
