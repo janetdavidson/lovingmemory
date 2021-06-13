@@ -1,26 +1,37 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details section-70">
       <h1 class="title">Order of Service</h1>
       <p><em>Wednesday, June 16, 2021</em></p>
-      <h2>Memorial Service <span>11:00 a.m.</span></h2>
-      <CoolLightBox
-        :items="images"
-        :index="index"
-        @close="index = null">
-      </CoolLightBox>
-      <img height="370" src="~/elements/memorial service program.jpg" alt="Click to view larger" />
-      <ul class="fa-ul">
-        <ListItem>Service starts at 11:00 a.m. at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//Cedar+Stake+Center,+155+E+400+S,+Cedar+City,+UT+84720/@37.6733592,-113.0790912,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80b561c846b42805:0x7f299b75c56ace35!2m2!1d-113.0588829!2d37.6704444"><i class="fas fa-map-marker-alt"></i> Cedar City Stake Center</a></ListItem>
-        <ListItem>Welcome &amp; Conducting (Bishop Brady Smith)</ListItem>
-        <ListItem>Opening Prayer (Lorraine Davidson)</ListItem>
-        <ListItem>Remembrances - Family &amp; Friends</ListItem>
-        <ListItem>Remarks (Bishop Brady Smith)</ListItem>
-        <ListItem>Closing prayer (Kristen Davidson)</ListItem>
-      </ul>
+      <div style="width:100%;display:flex;">
+        <div class="memorial">
+          <h2>Memorial Service <span>11:00 a.m.</span></h2>
+          <div class="program-small">
+            <a href="/layout/images/memorial service program.jpg" target="_blank">
+              <img height="250" src="/layout/images/memorial service program.jpg" alt="Click to view larger"/>
+            </a>
+          </div>
+          <ul class="fa-ul">
+            <ListItem>Service starts at 11:00 a.m. at <a class="same-line" target="_blank" href="https://www.google.com/maps/dir//Cedar+Stake+Center,+155+E+400+S,+Cedar+City,+UT+84720/@37.6733592,-113.0790912,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80b561c846b42805:0x7f299b75c56ace35!2m2!1d-113.0588829!2d37.6704444"><i class="fas fa-map-marker-alt"></i> Cedar City Stake Center</a></ListItem>
+            <ListItem>Welcome &amp; Conducting (Bishop Brady Smith)</ListItem>
+            <ListItem>Opening Prayer (Lorraine Davidson)</ListItem>
+            <ListItem>Remembrances - Family &amp; Friends</ListItem>
+            <ListItem>Remarks (Bishop Brady Smith)</ListItem>
+            <ListItem>Closing prayer (Kristen Davidson)</ListItem>
+          </ul>
+        </div>
+        <div class="program">
+          <h2>Program</h2>
+          <div style="text-align:center;">
+            <a href="/layout/images/memorial service program.jpg" target="_blank">
+              <img height="250" src="/layout/images/memorial service program.jpg" alt="Click to view larger"/>
+            </a>
+          </div>
+        </div>
+      </div>
       <div class="map">
         <iframe src="https://maps.google.com/maps?q=155 E 400 S Cedar City, Utah&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"/>
       </div>
@@ -32,60 +43,12 @@
       <div class="map">
         <iframe src="https://maps.google.com/maps?q=cedar%20city%20cemetery&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"/>
       </div>
-      <div class="images-wrapper">
-        <div class="image" v-for="(image, imageIndex) in thumbs"
-        :key="imageIndex"
-        @click="index = imageIndex"
-        :style="{ backgroundImage: 'url(' + image + ')' }"></div>
-      </div>
     </div>
   </div>
 </template>
 
 <script>
-import CoolLightBox from 'vue-cool-lightbox'
-import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
- export default {
-  components: {
-    CoolLightBox,
-  },
 
-  data: function () {
-    return {
-      images: ["/elements/memorial service program.jpg"],
-      thumbs: ["/elements/memorial service program.jpg"],
-      index: 0
-    };
-  },
-};
 </script>
 <style lang="scss">
-.images-wrapper {
-    margin-bottom: 20px;
-    margin-right: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-
-    @media screen and (max-width: 800px) {
-      justify-content: center;
-      width: calc(100% + 60px);
-      margin-left: -30px;
-      margin-bottom: 0px;
-    }
-}
-.images-wrapper .image {
-    cursor: pointer;
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin: 3px;
-    width: 120px;
-  image-orientation: from-image;
-    height: 120px;
-    @media screen and (max-width: 800px) {
-      width: 105px;
-      height: 105px;
-    }
-}
 </style>

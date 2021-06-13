@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section obituary">
+    <div class="section obituary section-70">
       <h1 class="title">Obituary</h1>
       <div class="image">
         <img src="~/assets/Janet Davidson - mortuary memorial service.jpg" alt="Janet Davidson" />

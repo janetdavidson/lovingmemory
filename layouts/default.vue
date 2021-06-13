@@ -69,8 +69,13 @@ html {
   height:28px;
   width: 27.5px;
 }
+.section-30{
+  flex: 0 0 30%;
+}
+.section-70{
+  flex: 0 0 70%;
+}
 .section {
-  flex: 0 0 50%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -183,6 +188,33 @@ html {
     justify-content: normal;
     overflow: auto;
     height: 100vh;
+    .program{
+      width:50%;
+      display:inline-block;
+      img{
+        padding:15px;
+      }
+    }
+    .memorial{
+      width:50%;
+      display:inline-block;
+    }
+    .program-small{
+      display:none;
+    }
+    @media screen and (max-width: 1400px) {
+      .program{
+        display:none;
+      }
+      .memorial{
+        width:100%;
+        display:block;
+      }
+      .program-small{
+        display:block;
+        width:100%;
+      }
+    }
     div.map{
       position:relative;
       text-align:right;

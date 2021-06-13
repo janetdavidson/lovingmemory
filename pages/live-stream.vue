@@ -1,9 +1,9 @@
 <template>
   <div class="container">
-    <div class="section links">
+    <div class="section links section-30">
       <Nav />
     </div>
-    <div class="section details">
+    <div class="section details section-70">
       <h1 class="title">Memorial Service Livestream</h1>
       <p>We hope those that can't make it in person will join us virtually. The services will be held on <em>Wednesday, June, 16, 2021</em>.</p>
       <h2>Memorial Service</h2>
