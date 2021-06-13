@@ -92,7 +92,7 @@ html {
     padding-bottom: 90px!important;
   }
   &.links {
-    background-image: url('~assets/corner.svg');
+    background:  linear-gradient(45deg, rgba(255,255,255,0) 0%,rgba(255,255,255,0) 1%,rgba(255,255,255,1) 100%), url('~assets/daisy_fade2.png');
     background-position: bottom 20px left 20px;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -128,7 +128,7 @@ html {
             justify-content: center;
             align-items: center;
             color: #fffc;
-            font-size: 12px;
+            font-size: 11px;
             &.nuxt-link-exact-active {
               color: #fff;
               .icon {
