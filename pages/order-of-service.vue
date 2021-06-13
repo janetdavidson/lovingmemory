@@ -24,7 +24,6 @@
           </ul>
         </div>
         <div class="program">
-          <h2>Program</h2>
           <div style="text-align:center;">
             <a href="/layout/images/memorial service program.jpg" target="_blank">
               <img height="250" src="/layout/images/memorial service program.jpg" alt="Click to view larger"/>
