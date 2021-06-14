@@ -168,7 +168,7 @@ html {
         font-size:26px;
       }
       .subtitle{
-        font-size: 17px;
+        font-size: 15px;
       }
     }
     img {

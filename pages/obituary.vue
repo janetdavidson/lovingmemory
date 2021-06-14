@@ -20,7 +20,7 @@
         She was preceded in death by both her parents. She is survived by her spouse, three children, Kristen Davidson, Buffalo, N.Y., Lorraine Davidson, Mesquite, Nev., Nathaniel Davidson, Seaside, Calif.; and three grandchildren, Daijonne, Zaiden and Ava. She will be missed by her 9 brothers and sisters, and other relatives and friends.
       </div>
       <div class="text">
-        At her request, a Memorial Service will be held on Wednesday, June 16, 2021 at 11:00 a.m. at the Cedar City Stake Center at 155 E 400 S. Inurnment will be at the Cedar City Cemetery.
+        At her request, a Memorial Service will be held on Wednesday, June 16, 2021 at 11:00 a.m. at the Cedar City Stake Center at 155 E 400 S. Inurnment will be at the Cedar City Cemetery Columbarium.
       </div>
       <div class="text">
         The family would like to express their deepest gratitude to the doctors and nurses, the hospice workers, and the wonderful members of the East Bench Ward for their tender loving care of Jan while she went through three rounds of intense cancer treatments over the last two years.
