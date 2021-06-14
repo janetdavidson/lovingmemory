@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1623699388",layout:"default",error:null,serverRendered:true,routePath:"\u002Fobituary",config:{name:"Janet (Anderson) Davidson",dates:"Thursday, July 1st 1948 - Wednesday, June 9th 2021"}};
