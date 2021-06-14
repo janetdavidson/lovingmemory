@@ -11,7 +11,7 @@
       <h2>Memorial Service</h2>
       <p>The memorial service will be livestreamed at Cedar City Stake Center.</p>
       <p>There will be no livestream at the Cemetery.</p>
-      <a class="button" target="_blank" href="https://zoom.us/j/93937023718?pwd=TTU2WEs4VjMxbkdRcGQwbVRicXMxZz09">Livestream ~ 10:45am</a>
+      <a class="button" target="_blank" href="https://zoom.us/j/93937023718?pwd=TTU2WEs4VjMxbkdRcGQwbVRicXMxZz09">Livestream ~ 10:45 a.m.</a>
       <p>
         Meeting ID: 939 3702 3718<br/>
         Passcode: -released closer to service-<br/>
