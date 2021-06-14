@@ -25,7 +25,7 @@
           &nbsp;&nbsp;&nbsp;&nbsp;+1-(253)-215-8782 US (Tacoma)<br/>
           &nbsp;&nbsp;&nbsp;&nbsp;+1-(346)-248-7799 US (Houston)<br/>
           &nbsp;&nbsp;&nbsp;&nbsp;+1-(929)-205-6099 US (New York)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1 301 715 8592 US (Washington DC)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+1-(301)-715-8592 US (Washington DC)<br/>
           &nbsp;&nbsp;&nbsp;&nbsp;+1-(312)-626-6799 US (Chicago)<br/>
       </p>
     </div>
