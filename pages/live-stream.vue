@@ -12,21 +12,21 @@
       <p>The memorial service will be livestreamed at Cedar City Stake Center.</p>
       <p>There will be no livestream at the Cemetery.</p>
       <a class="button" target="_blank" href="https://zoom.us/j/93937023718?pwd=TTU2WEs4VjMxbkdRcGQwbVRicXMxZz09">Livestream ~ 10:45 a.m.</a>
-      <p>
+      <p class="meeting-links">
         Meeting ID: 939 3702 3718<br/>
         Passcode: 557058<br/>
         <br/>
-        One tap mobile:<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+16699006833,,93937023718#,,,,*557058#">+16699006833,,93937023718#,,,,*557058# US (San Jose)</a><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+12532158782,,93937023718#,,,,*557058#">+12532158782,,93937023718#,,,,*557058# US (Tacoma)</a><br/>
+        One tap mobile:<br/><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+16699006833,,93937023718#,,,,*557058#"><i class="fab fa-apple"></i> +16699006833,,93937023718#,,,,*557058# US (San Jose)</a><br/><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+12532158782,,93937023718#,,,,*557058#"><i class="fab fa-apple"></i> +12532158782,,93937023718#,,,,*557058# US (Tacoma)</a><br/>
         <br/>
-        Dial by your location:<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(669)-900-6833">+1-(669)-900-6833 US (San Jose)</a><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(253)-215-8782">+1-(253)-215-8782 US (Tacoma)</a><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(346)-248-7799">+1-(346)-248-7799 US (Houston)</a><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(929)-205-6099">+1-(929)-205-6099 US (New York)</a><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(301)-715-8592">+1-(301)-715-8592 US (Washington DC)</a><br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(312)-626-6799">+1-(312)-626-6799 US (Chicago)</a><br/>
+        Dial by your location:<br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(669)-900-6833"><i class="fas fa-phone-alt"></i> +1-(669)-900-6833 US (San Jose)</a><br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(253)-215-8782"><i class="fas fa-phone-alt"></i> +1-(253)-215-8782 US (Tacoma)</a><br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(346)-248-7799"><i class="fas fa-phone-alt"></i> +1-(346)-248-7799 US (Houston)</a><br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(929)-205-6099"><i class="fas fa-phone-alt"></i> +1-(929)-205-6099 US (New York)</a><br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(301)-715-8592"><i class="fas fa-phone-alt"></i> +1-(301)-715-8592 US (Washington DC)</a><br/><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(312)-626-6799"><i class="fas fa-phone-alt"></i> +1-(312)-626-6799 US (Chicago)</a><br/>
       </p>
     </div>
   </div>

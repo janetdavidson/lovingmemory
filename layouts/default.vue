@@ -188,6 +188,12 @@ html {
     justify-content: normal;
     overflow: auto;
     height: 100vh;
+    .meeting-links{
+      a{
+        color:$highlight;
+        text-decoration:none;
+      }
+    }
     .program{
       width:50%;
       display:inline-block;
