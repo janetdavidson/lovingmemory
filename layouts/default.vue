@@ -192,6 +192,7 @@ html {
       a{
         color:$highlight;
         text-decoration:none;
+        font-weight:400;
       }
     }
     .program{
@@ -255,6 +256,9 @@ html {
       li {
         margin: 10px 0;
         font-size:17px;
+        @media screen and (max-width: 700px) {
+          font-size:15px;
+        }
       }
     }
     .title {
@@ -264,6 +268,9 @@ html {
       margin: 40px 0 5px;
       align-items: center;
       display: flex;
+      @media screen and (max-width: 700px) {
+        font-size:20px;
+      }
       span {
         background: $highlightmuted;
         padding: 3px 7px;
