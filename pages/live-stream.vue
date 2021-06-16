@@ -14,19 +14,19 @@
       <a class="button" target="_blank" href="https://zoom.us/j/93937023718?pwd=TTU2WEs4VjMxbkdRcGQwbVRicXMxZz09">Livestream ~ 10:45 a.m.</a>
       <p>
         Meeting ID: 939 3702 3718<br/>
-        Passcode: -released closer to service-<br/>
+        Passcode: 557058<br/>
         <br/>
         One tap mobile:<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;+16699006833,,93937023718#,,,,*557058# US (San Jose)<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;+12532158782,,93937023718#,,,,*557058# US (Tacoma)<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+16699006833,,93937023718#,,,,*557058#">+16699006833,,93937023718#,,,,*557058# US (San Jose)</a><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+12532158782,,93937023718#,,,,*557058#">+12532158782,,93937023718#,,,,*557058# US (Tacoma)</a><br/>
         <br/>
         Dial by your location:<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(669)-900-6833 US (San Jose)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(253)-215-8782 US (Tacoma)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(346)-248-7799 US (Houston)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(929)-205-6099 US (New York)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(301)-715-8592 US (Washington DC)<br/>
-          &nbsp;&nbsp;&nbsp;&nbsp;+1-(312)-626-6799 US (Chicago)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(669)-900-6833">+1-(669)-900-6833 US (San Jose)</a><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(253)-215-8782">+1-(253)-215-8782 US (Tacoma)</a><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(346)-248-7799">+1-(346)-248-7799 US (Houston)</a><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(929)-205-6099">+1-(929)-205-6099 US (New York)</a><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(301)-715-8592">+1-(301)-715-8592 US (Washington DC)</a><br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+1-(312)-626-6799">+1-(312)-626-6799 US (Chicago)</a><br/>
       </p>
     </div>
   </div>
