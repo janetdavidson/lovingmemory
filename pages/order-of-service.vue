@@ -20,7 +20,7 @@
           <ul class="fa-ul">
             <ListItem>Janet's Memorial Service was held on Wednesday, June 16, at her church building. The service was available via zoom, and was recorded. You can view a recording of the service, as well as the Program below.
             Her Inurnment was held at the Cedar City Cemetery Columbarium and was not livestreamed. The Columbrarium is located just behind the Cemetery Admin Offices, down a flowered path. Her location is on the opposite side of the path, facing N 400 W Street.</ListItem>
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/0barDbtfU3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </ul>
         </div>
         <div class="program">
